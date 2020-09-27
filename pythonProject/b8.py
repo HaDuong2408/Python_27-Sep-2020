@@ -12,3 +12,5 @@ print(list(l2))
 l3=map(lambda a:a*2,l1)
 print(type(l3))
 print(list(l3))
+
+#EDIT:
